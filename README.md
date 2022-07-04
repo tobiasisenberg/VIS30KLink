@@ -27,9 +27,7 @@ The dataset can also be explored online using the VISImageNavigator described in
   doi_url     = {https://doi.org/10.1109/TVCG.2021.3054916},
   oa_hal_url  = {https://hal.inria.fr/hal-03123279},
   arxiv_url   = {https://arxiv.org/abs/2101.01036},
-  url         = {https://tobias.isenberg.cc/VideosAndDemos/Chen2021VCF},
-  url2        = {https://visimagenavigator.github.io/},
-  pdf         = {https://tobias.isenberg.cc/personal/papers/Chen_2021_VCF.pdf},
+  url         = {https://visimagenavigator.github.io/},
 }
 ```
 
