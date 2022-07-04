@@ -3,7 +3,9 @@
 This repository serves as a link to information for [Graphics Replicability Stamp Initiative](http://www.replicabilitystamp.org/) to the [VIS30K dataset](http://doi.org/10.21227/4hy6-vh52).
 
 ## Dataset link
-The dataset is hosted on the IEEE DataPort at [DOI 10.21227/4hy6-vh52](http://doi.org/10.21227/4hy6-vh52) under a [CC BY 4.0 license](https://creativecommons.org/licenses/by/4.0/). Additional meta data is hosted at http://go.osu.edu/vis30k . In addition, the CNN algorithm [training data](https://drive.google.com/drive/folders/12YP1rbPLEw3hACPVC7cGQPmb6zrQl4yT?usp=sharing) and [validation data](https://drive.google.com/drive/folders/1ma1u0ktQK2Yy-NZe68UWY7S-i-Ij_16Z?usp=sharing) as well as [image corpus](https://drive.google.com/drive/folders/1kcwJH7_EwTJbsJtAl8uqCNL0uMq6MfdN?usp=sharing) and [text corpus](https://drive.google.com/drive/folders/11dJztO_Q7aKNt-zWtvIWHxm9-VqH5Clk?usp=sharing) are also available.
+The dataset is hosted on the IEEE DataPort at [DOI 10.21227/4hy6-vh52](http://doi.org/10.21227/4hy6-vh52) under a [CC BY 4.0 license](https://creativecommons.org/licenses/by/4.0/). We do not replicate the data here because it is larger than 20GB and the IEEE Data portpromises an indefinite dataset storage.
+
+Additional meta data is hosted at http://go.osu.edu/vis30k . In addition, the CNN algorithm [training data](https://drive.google.com/drive/folders/12YP1rbPLEw3hACPVC7cGQPmb6zrQl4yT?usp=sharing) and [validation data](https://drive.google.com/drive/folders/1ma1u0ktQK2Yy-NZe68UWY7S-i-Ij_16Z?usp=sharing) as well as [image corpus](https://drive.google.com/drive/folders/1kcwJH7_EwTJbsJtAl8uqCNL0uMq6MfdN?usp=sharing) and [text corpus](https://drive.google.com/drive/folders/11dJztO_Q7aKNt-zWtvIWHxm9-VqH5Clk?usp=sharing) are also available.
 
 ## VISImageNavigator
 
