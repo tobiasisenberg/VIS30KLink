@@ -3,7 +3,7 @@
 This repository serves as a link to information for [Graphics Replicability Stamp Initiative](http://www.replicabilitystamp.org/) to the [VIS30K dataset](http://doi.org/10.21227/4hy6-vh52) as well as the [VISImageNavigator](https://visimagenavigator.github.io/).
 
 ## VIS30K Dataset
-The dataset is hosted permanently on the IEEE DataPort at [DOI 10.21227/4hy6-vh52](http://doi.org/10.21227/4hy6-vh52) under a [CC BY 4.0 license](https://creativecommons.org/licenses/by/4.0/). We do not replicate the data here because it is larger than 20GB and the IEEE Data portpromises an indefinite dataset storage.
+The dataset is hosted permanently on the IEEE DataPort at [DOI 10.21227/4hy6-vh52](http://doi.org/10.21227/4hy6-vh52) under a [CC BY 4.0 license](https://creativecommons.org/licenses/by/4.0/). We do not replicate the data here because it is larger than 20GB and the IEEE Data port promises an indefinite dataset storage.
 
 In addition to being available from the IEEE DataPort, the data is also available through a direct download link from [https://www.cse.osu.edu/~chen.8028/VIS30K/VIS30K.tar.gz](https://www.cse.osu.edu/~chen.8028/VIS30K/VIS30K.tar.gz).
 
