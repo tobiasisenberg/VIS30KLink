@@ -9,7 +9,7 @@ Additional meta data is hosted at http://go.osu.edu/vis30k . In addition, the CN
 
 ## VISImageNavigator
 
-The dataset can also be explored online using the VISImageNavigator described in the paper: https://visimagenavigator.github.io/. The source code for this website is available at https://github.com/VisImageNavigator/VisImageNavigator.Release
+The dataset can also be explored online using the VISImageNavigator described in the paper: https://visimagenavigator.github.io/. The source code for this website is available at https://github.com/VisImageNavigator/VisImageNavigator.Release.
 
 ## Paper details
 
