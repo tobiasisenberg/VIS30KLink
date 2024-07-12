@@ -26,6 +26,7 @@ The dataset can also be explored online using the VISImageNavigator described in
   month       = sep,
   pages       = {3826--3833},
   doi         = {10.1109/TVCG.2021.3054916},
+  shortdoi    = {10/gmsvxd},
   doi_url     = {https://doi.org/10.1109/TVCG.2021.3054916},
   oa_hal_url  = {https://hal.inria.fr/hal-03123279},
   arxiv_url   = {https://arxiv.org/abs/2101.01036},
